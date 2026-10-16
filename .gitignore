@@ -38,3 +38,13 @@ hs_err_*.log
 replay_*.log
 *.hprof
 *.jfr
+
+# backups & build artifacts
+backup/
+*.jar
+!gradle/wrapper/*.jar
+
+# runtime & local logs
+config/
+logs/
+*.log
