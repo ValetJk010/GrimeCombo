@@ -4,7 +4,7 @@
 [![Java](https://img.shields.io/badge/Java-25-ED8B00?logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![Architecture](https://img.shields.io/badge/Architecture-Asynchronous%20Sub--tick-orange)](#-архитектура-и-киллер-фичи)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-ValetJk010%2FGrimeCombo-181717?logo=github&logoColor=white)](https://github.com/ValetJk010/GrimeCombo)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-GrimeVoid%2FGrimeCombo-181717?logo=github&logoColor=white)](https://github.com/GrimeVoid/GrimeCombo)
 
 > **Язык / Language:** **Русский** | [English](README.md)
 
@@ -265,7 +265,7 @@ actions = [
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/ValetJk010/GrimeCombo.git
+git clone https://github.com/GrimeVoid/GrimeCombo.git
 cd GrimeCombo
 
 # Сборка мода через Fabric Loom (Gradle)

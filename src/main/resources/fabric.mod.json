@@ -5,10 +5,11 @@
   "name": "Grime Combo",
   "description": "MOBA-like tactical macro combo engine for Fabric",
   "authors": [
-    "Grime"
+    "GrimeVoid"
   ],
   "contact": {
-    "sources": "https://github.com/ValetJk010/GrimeCombo"
+    "homepage": "https://github.com/GrimeVoid/GrimeCombo",
+    "sources": "https://github.com/GrimeVoid/GrimeCombo"
   },
   "license": "MIT",
   "environment": "client",
